@@ -1,4 +1,4 @@
-                                                                                           **Bank Automation System**
+**Bank Automation System**
                                                                                                     
                                                                                                     
 Introduction
