@@ -4,6 +4,9 @@
 **Introduction**
 
 Welcome to the XYZ Bank Automation System! This project aims to automate the basic functionalities of a bank branch, providing a seamless experience for both customers and bank staff. The system is designed to handle various types of accounts, each with its own unique features and restrictions.
+![University Database System Demo]([url_to_your_gif.gif](https://github.com/Lakshhh01/JavaProjects/blob/main/Project-AccountManagementSystem/bankgif.gif))
+
+
 
 **Features**
 
